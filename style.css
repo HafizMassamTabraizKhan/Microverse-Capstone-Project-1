@@ -569,7 +569,12 @@ footer {
   }
 
   .aboutpage-footer .logo img {
-    width: 70%;
+    width: 80%;
+  }
+
+  .aboutpage-footer {
+    background-color: #fff;
+    color: #000;
   }
 }
 
