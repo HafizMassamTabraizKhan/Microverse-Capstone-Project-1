@@ -347,8 +347,8 @@ footer {
   display: none;
 }
 
-.less{
-    display: none;
+.less {
+  display: none;
 }
 
 @media only screen and (max-width: 768px) {
